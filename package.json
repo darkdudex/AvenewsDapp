@@ -1,7 +1,7 @@
 {
   "name": "avenewsdapp",
-  "version": "1.1.0",
-  "description": "BlockChain System",
+  "version": "1.0.0",
+  "description": "Avenews-GT",
   "main": "index.js",
   "directories": {
     "example": "examples",
@@ -14,13 +14,16 @@
     "mocha": "^3.4.2"
   },
   "scripts": {
-    "test": "mocha"
+    "test": "make test"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/darkdudex/AvenewsDapp.git"
   },
-  "author": "CTO Ismail Kharoub",
+  "keywords": [
+    "npm"
+  ],
+  "author": "Ismail Kharoub <ismail@avenews-gt.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/darkdudex/AvenewsDapp/issues"
